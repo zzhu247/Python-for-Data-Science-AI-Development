@@ -4,6 +4,7 @@
 
 ![IBM](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS
 #### Instructor(s) : Joseph Santarcangelo
+#### Repo Owner: Liz Zhu
 
 ## About this Course
 
