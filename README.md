@@ -36,7 +36,7 @@ After completing this course you will have learned foundational skills in Python
 
 ## Syllabus
 
-### WEEK 1
+### WEEK 1 Grade:100%
 
 #### Python Basics
 
@@ -48,3 +48,62 @@ After completing this course you will have learned foundational skills in Python
 **Graded:** Types\
 **Graded:** Expressions and Variables\
 **Graded:** String Operations
+
+### WEEK 2
+
+#### Python Data Structures
+
+* **Key Concepts**
+    * Understand tuples and lists by describing and manipulating tuple combinations and list data structures.
+    * Demonstrate understanding of dictionaries by writing structures with correct keys and values.
+    * Understand the differences between sets, tuples, and lists by creating sets.
+
+**Graded:** List and Tuples\
+**Graded:** Dictionaries\
+**Graded:** Sets
+
+### WEEK 3
+
+#### Python Programming Fundamentals
+
+* **Key Concepts**
+    * Classify conditions and branching by identifying structured scenarios with outputs.
+    * Understand loops by using visual examples and comparing them to tuples and lists.
+    * Understand functions by building a function using inputs and outputs.
+    * Explain objects and classes by identifying data types and creating a class.
+
+**Graded:** Conditions and Branching\
+**Graded:** Loops\
+**Graded:** Functions\
+**Graded:** Objects and Classes
+
+### WEEK 4
+
+#### Working with Data in Python
+
+* **Key Concepts**
+    * Demonstrate an open function to create and identify a file object.
+    * Understand how to use pandas for library and data analysis by using commands.
+    * Demonstrate how to create a text file by using the open function.
+    * Demonstrate how to use NumPy to create multi-dimensional arrays.
+
+**Graded:** Reading Files with Open\
+**Graded:** Writing files with open\
+**Graded:** Pandas\
+**Graded:** One Dimensional Numpy\
+**Graded:** Two Dimensional Numpy
+
+### WEEK 5
+
+#### Analyzing US Economic Data and Building a Dashboard
+
+* **Key Concepts**
+    * Create a dashboard that shows key economic indicators from a specific data set.
+
+**Graded:** Analyzing US Economic Data and Building a Dashboard
+
+#
+#
+This course is part of the **IBM Data Science Professional Certificate**\
+![IBM](https://i.imgur.com/j6yW3WS.png)
+
