@@ -49,7 +49,7 @@ After completing this course you will have learned foundational skills in Python
 **Graded:** Expressions and Variables\
 **Graded:** String Operations
 
-### WEEK 2
+### WEEK 2 Grade:100%
 
 #### Python Data Structures
 
