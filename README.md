@@ -36,7 +36,7 @@ After completing this course you will have learned foundational skills in Python
 
 ## Syllabus
 
-### WEEK 1 Grade:100%
+### WEEK 1 Grade: 100%
 
 #### Python Basics
 
@@ -49,7 +49,7 @@ After completing this course you will have learned foundational skills in Python
 **Graded:** Expressions and Variables\
 **Graded:** String Operations
 
-### WEEK 2 Grade:100%
+### WEEK 2 Grade: 100%
 
 #### Python Data Structures
 
@@ -62,7 +62,7 @@ After completing this course you will have learned foundational skills in Python
 **Graded:** Dictionaries\
 **Graded:** Sets
 
-### WEEK 3
+### WEEK 3: 100%
 
 #### Python Programming Fundamentals
 
